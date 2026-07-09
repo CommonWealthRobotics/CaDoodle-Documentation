@@ -32,3 +32,9 @@ Then drag in the image files
 
 ![](addImages.png)
 
+# 3 Edit the MD to add the images
+
+look at the raw source of this document for examples of how to display the images in-line with the documentation
+
+
+
